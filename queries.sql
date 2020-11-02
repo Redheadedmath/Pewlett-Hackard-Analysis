@@ -70,3 +70,35 @@ INNER JOIN departments as d
 ON (de.dept_no = d.dept_no)
 WHERE d.dept_name IN ('Sales', 'Development');
 
+--creating mentorship figures by_title
+SELECT COUNT (emp_no), title
+INTO mentorship_by_title
+FROM mentorship_eligibility
+GROUP BY title
+ORDER BY COUNT desc;
+
+--creating mentorship figures by_department
+SELECT COUNT (me.emp_no), de.dept_no, d.dept_name
+INTO mentorship_by_deparment
+FROM mentorship_eligibility as me
+INNER JOIN dept_emp as de
+ON (me.emp_no = de.emp_no)
+INNER JOIN departments as d
+ON (de.dept_no = d.dept_no)
+GROUP BY de.dept_no, d.dept_name
+ORDER BY de.dept_no;
+
+
+--adding dept_name to elucidate
+SELECT rd.count, rd.dept_no, d.dept_name
+INTO retirement_by_depts
+FROM retirement_by_dept as rd
+INNER JOIN departments as d
+ON (rd.dept_no = d.dept_no);
+
+--for retirements by title without names or other descriptors for privacy sake
+SELECT COUNT(emp_no), title
+INTO retirement_titles_privacy
+FROM retirement_titles
+GROUP BY title
+ORDER BY COUNT DESC;
