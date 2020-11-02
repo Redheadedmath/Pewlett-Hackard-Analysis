@@ -14,5 +14,5 @@ The aforementioned 4 insights of this analysis stem from these keys.
 *** Item 1: Clarifying the Scope of Retirements ***
 Nothing is more daunting than a problem unknown. Below is a figure taken from this analysis’s retirements_by_department.csv file. In it we clarify which departments will be hit hardest and by how much. <br />
 <p float="left">
-  <img src="ata/retirements_by_department.png" width="300" />
+  <img src="Data/retirements_by_department.png" width="300" />
 </p> 
