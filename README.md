@@ -31,7 +31,7 @@ A vital way to pivot on the ample experience still available within the company 
 
 ### 4. Clarify potential memberships by department ###
 Similarly as insight 2 clarifies insight 1, insight 4 helps to clarify the scope of available mentors within the company. The figures below depict a breakdown of potential mentors by both titles and by departments to provide any desired, relevant numbers immediately. 
-<p float="left">
+<p float="center">
   <img src="Data/mentorship_by_title.png” width="300" />
   <img src="Data/mentorship_by_department.png” width="300" />
 </p> 
