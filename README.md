@@ -32,7 +32,8 @@ A vital way to pivot on the ample experience still available within the company 
 ### 4. Clarify potential memberships by department ###
 Similarly as insight 2 clarifies insight 1, insight 4 helps to clarify the scope of available mentors within the company. The figures below depict a breakdown of potential mentors by both titles and by departments to provide any desired, relevant numbers immediately. 
 
-![](Data/mentorship_by_title)
+![](Data/mentorship_by_title.png)
+![](Data/mentorship_by_department.png)
 
 While not aligning with the company’s needs perfectly, we see that our pool of available mentors lines up closely with our hardest hit departments and titles. In fact, the only discrepancy lies with Senior Engineering mentors ranking 4th instead of within the top 3.
 
