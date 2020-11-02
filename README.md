@@ -16,7 +16,7 @@ Nothing is more daunting than a problem unknown. Below is a figure taken from th
 <p float="left">
   <img src="Data/retirements_by_department.png" width="300" />
 </p> 
-We see that the top 3 departments hit hardest in order of magnitude are *Development*, *Production*, and *Sales*.  
+We see that the top 3 departments hit hardest in order of magnitude are _Development_, _Production_, and _Sales_.  
 
 ### 2. Identify the roles that will be left most vacant ###
 Knowing which departments need staffing is a critical insight as PH plans for the next phase. However, it is also important to translate this void into more specific positions for which replacements can be sought today. To do this, the analysis provides the following figure depicting which roles will have vacancies in the upcoming retirements. <br />
