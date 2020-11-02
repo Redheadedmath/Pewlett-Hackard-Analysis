@@ -33,7 +33,6 @@ A vital way to pivot on the ample experience still available within the company 
 Similarly as insight 2 clarifies insight 1, insight 4 helps to clarify the scope of available mentors within the company. The figures below depict a breakdown of potential mentors by both titles and by departments to provide any desired, relevant numbers immediately. 
 <p float="center">
   <img src="Data/mentorship_by_title.png” width="300" />
-  <img src="Data/mentorship_by_department.png” width="300" />
 </p> 
 While not aligning with the company’s needs perfectly, we see that our pool of available mentors lines up closely with our hardest hit departments and titles. In fact, the only discrepancy lies with Senior Engineering mentors ranking 4th instead of within the top 3.
 
@@ -48,9 +47,9 @@ There are approximately 33,118 employees coming eligible for retirement. This ta
 
 Unfortunately, there are approximately 1,954 potential mentors. Without a moderate amount of ingenuity, PH seems to be in a critical bind in the face of this upcoming wave of retirements. However, this change is inevitable, thus, PH must adapt. 
 Initially, this seems a staggering comparison. The analysis offers the following additional insights as considerations for moving forward.
-### Considering incentivizing retirements by waves.###
+### Considering incentivizing retirements by waves. ###
 Consulting the breakdown above, if retirements could be implemented by either birth year or by hire year we could drastically reduce the number of exiting employees and thus take greater advantage of the limited number of possible mentors. This action would reduce the number of potential mentees to mentors to a much more realistic 4:1 rather than 16:1. 
-### Expand the scope of mentorship eligibility.###
+### Expand the scope of mentorship eligibility. ###
 Perhaps the quickest fix to the company’s immediate need, would be to simply expand the constraint of which employees may be considered eligible for mentorship status. With a structured mentor curriculum, expanding eligibility would not compromise the quality of PH branding. 
 ### Lastly, avoid reinventing the wheel. ###
 Consulting beyond the PH brand is essential to ensure adaptation and even company growth during this transition period. Other companies have experienced the “Silver Tsunami” before PH. The analysis suggests consulting with their leadership to learn from their mistakes. Further analysis could be down to determine patterns of companies that successfully passed the baton so-to-speak vs. those that did not.
