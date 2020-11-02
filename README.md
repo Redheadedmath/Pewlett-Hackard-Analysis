@@ -32,18 +32,13 @@ A vital way to pivot on the ample experience still available within the company 
 ### 4. Clarify potential memberships by department ###
 Similarly as insight 2 clarifies insight 1, insight 4 helps to clarify the scope of available mentors within the company. The figures below depict a breakdown of potential mentors by both titles and by departments to provide any desired, relevant numbers immediately. 
 <p float="left">
-  <img src="Data/mentorship_by_title.png” width="300" />
+  <img src="Data/mentorship_by_title” width="300" />
 </p> 
 While not aligning with the company’s needs perfectly, we see that our pool of available mentors lines up closely with our hardest hit departments and titles. In fact, the only discrepancy lies with Senior Engineering mentors ranking 4th instead of within the top 3.
 
 ## Summary ##
 There are approximately 33,118 employees coming eligible for retirement. This table breaks down this number by birth year and by hire year. <br />
-|Birth Year |Retirement Ready | Hire Year | Retirement Ready |
-|: ---- | :--- |:---:|  ---:|
-| 1952 | 7,753 | 1985 | 8,555 |
-| 1953 | 8,355 | 1986 | 8,738 |
-| 1954 | 8,535 | 1987 | 8,071 |
-| 1955 | 8,475| 1988 | 7,754 |
+![](Data/Fig1.png)
 
 Unfortunately, there are approximately 1,954 potential mentors. Without a moderate amount of ingenuity, PH seems to be in a critical bind in the face of this upcoming wave of retirements. However, this change is inevitable, thus, PH must adapt. 
 Initially, this seems a staggering comparison. The analysis offers the following additional insights as considerations for moving forward.
