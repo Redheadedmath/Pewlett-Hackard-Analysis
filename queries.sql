@@ -101,4 +101,4 @@ SELECT COUNT(emp_no), title
 INTO retirement_titles_privacy
 FROM retirement_titles
 GROUP BY title
-ORDER BY COUNT DESC;
+ORDER BY COUNT DESC
